@@ -2,13 +2,13 @@
 
 Usage:
 ```
-$ node passwordgen.js [length]
+$ bash passwordgen [length]
 [returns password with given length]
 ```
 
 Example:
 ```
-$ node passwordgen.js 64
+$ bash passwordgen 64
 WqXr7,vWz@NnX^4upZ%&rE5pt9#E?:@MH<'?yy`H-OFE_m6Fsq-<MJEU4kOs$ZMT
 ```
 
